@@ -1,4 +1,4 @@
 # Prueba
-php artisan migrate --path="database/migrations/2024_07_22_170856_create_carritos_table.php";
-php artisan migrate --path="database/migrations/2024_08_12_233128_create_detalles_carritos_table.php";
-php artisan migrate --path="database/migrations/2024_07_22_170912_create_comprobantes_table.php";
+php artisan migrate --path="database/migrations/2024_08_11_212425_create_category_table.php";
+php artisan migrate --path="database/migrations/2024_08_12_010900_create_platform_table.php";
+php artisan migrate --path="database/migrations/2024_08_12_010900_create_platform_table.php";
